@@ -5,6 +5,10 @@ import sqlite3
 class Vocab(Object):
     """
     The Vocabulary wraps the db holding word lists
+
+    Probably also an English thesaurus for trying to map words or phrases to
+    their closest Lojban equivalent when they occur nowhere in the Lojban
+    language materials.
     """
     self.db = ''
     self.listpath = ['','']
