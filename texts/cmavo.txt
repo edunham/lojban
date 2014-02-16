@@ -1,4 +1,3 @@
-01090 Lojban         LogFlash cmavo list 26 August 2002 -- added va'e        01090
 .a         A        sumti or                                  logical connective: sumti afterthought or
 .a'a       UI1      attentive                                 attitudinal: attentive - inattentive - avoiding                                                           (cf. jundi, rivbi)
 .a'acu'i   UI*1     inattentive                               attitudinal: attentive - inattentive - avoiding
